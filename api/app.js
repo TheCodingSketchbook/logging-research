@@ -5,6 +5,6 @@
     var routes = require('./routes');
 
     server.start(function() {
-        console.log("");
+        console.log("Basic logging");
     });
 })();

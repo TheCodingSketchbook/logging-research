@@ -3,8 +3,7 @@
     var Hapi = require('hapi');
 
     var options = {
-        port: 3000,
-        minimal: true
+        port: 3000
     };
 
     var server = new Hapi.Server();
